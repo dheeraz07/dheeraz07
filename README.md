@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @dheeraz07
 - 👀 I’m interested in Data ocean.
-- 🌱 I’m currently learning Data modeling, 
+- 🌱 Proficient in concepts namely Data-base modeling, 
                              Data Storing(SQL and NoSQL DBs), 
                              Batch processing(Kafka),
-                             Big Data(Spark and Hadoop cluster),
+                             Big Data(Spark and Hadoop clusters),
                              Cloud(AWS), 
                              Visualizing(Power BI and Tableau) and 
                              building ETL pipelines. 
