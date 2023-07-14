@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dheeraz07
-- 👀 I’m interested in Data ocean.
+- 👀 Swimming in the Data ocean.
 - 🌱 Proficient in concepts namely Data-base modeling, 
                              Data Storing(SQL and NoSQL DBs), 
                              Batch processing(Kafka),
