@@ -8,7 +8,7 @@
                              Visualizing(Power BI and Tableau) and 
                              building ETL pipelines. 
 - 💞️ I’m looking to collaborate on different projects which involves all the roots of Data Engineering.
-- 📫 Email: dheerazchavali1728@gmail.com
+- 📫 Email: dheerazchavali@gmail.com
 
 
 <!---
