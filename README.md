@@ -1,25 +1,28 @@
-# Dheeraz Chavali | Data Engineer
+# Dheeraz Govindavajhala | Data Engineer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dheerazchavali/)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:dheerazchavali@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View-green?style=for-the-badge&logo=github)](https://github.com/dheeraz07)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/dheerazchavali/)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:dheerazchavali@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=flat&logo=leetcode)](https://leetcode.com/dheeraz07/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-green?style=flat&logo=hackerrank)](https://www.hackerrank.com/dheerazchavali)
 
-## 👨‍💻 About Me
+## About Me
 
-Results-driven Data Engineer with expertise in designing and implementing scalable data solutions. Proficient in building end-to-end data pipelines, real-time streaming architectures, and cloud-based analytics platforms. Passionate about transforming complex data challenges into actionable insights.
+Experienced Data Engineer specializing in cloud-native data solutions and big data architectures. I design and implement scalable data pipelines, real-time streaming systems, and analytics platforms that transform raw data into actionable insights.
 
-## 🛠️ Technical Skills
+My expertise spans the full data engineering lifecycle, from data acquisition and processing to storage, analysis, and visualization. I'm passionate about solving complex data challenges and building robust, efficient systems that drive business value.
+
+## Technical Skills
 
 - **Data Engineering:** ETL/ELT, Data Modeling, Data Warehousing, Big Data
-- **Databases:** SQL, NoSQL, Amazon Redshift, Google BigQuery
 - **Cloud Technologies:** AWS (S3, Lambda, Redshift, Kinesis), GCP (BigQuery, Dataflow)
-- **Streaming:** Apache Kafka, Apache Spark Streaming, Kinesis
+- **Databases:** SQL, NoSQL, Amazon Redshift, Google BigQuery, MongoDB
+- **Streaming:** Apache Kafka, Apache Spark Streaming, AWS Kinesis
 - **Big Data:** Apache Spark, Hadoop, Hive
 - **Workflow Orchestration:** Apache Airflow, AWS Step Functions
 - **Programming:** Python, SQL, Scala, PySpark
 - **Visualization:** Tableau, Power BI, Metabase
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### [Finnhub Trading Data Streaming Pipeline](https://github.com/dheeraz07/Finnhub-trading-Data-Streaming-Pipeline)
 Real-time streaming pipeline processing financial market data from Finnhub.io API using Apache Kafka and Spark for high-throughput, low-latency data processing.
@@ -36,10 +39,10 @@ End-to-end data pipeline extracting, transforming, and loading data from Spotify
 ### [Uber Expense Tracking with Apache Airflow](https://github.com/dheeraz07/Tracking-Uber-expenses-using-Apache-Airflow)
 ETL pipeline built with Apache Airflow and AWS Redshift for processing and visualizing Uber expense data.
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dheeraz07&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dheeraz07&layout=compact&theme=radical)
 
-## 📫 Let's Connect
+## Let's Connect
 I'm always open to interesting conversations and opportunities. Feel free to reach out to me at dheerazchavali@gmail.com.
