@@ -1,4 +1,4 @@
-# Dheeraz Govindavajhala | Data Engineer
+# Dheeraz Chavali | Data Engineer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dheerazchavali/)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:dheerazchavali@gmail.com)
