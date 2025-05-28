@@ -1,4 +1,4 @@
-# Dheeraz Govindavajhala | Data Engineer
+# Shanmukha Sai Dheeraz Chavali | Data Engineer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/dheerazchavali/)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:dheerazchavali@gmail.com)
