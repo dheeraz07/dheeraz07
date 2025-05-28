@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00E1FF&background=3CBAFF00&center=true&vCenter=true&random=false&width=600&height=70&lines=%3C%2F+Hello+World+%3E;%3C%2F+I'm+Dheeraz+%3E;%3C%2F+Data+Alchemist+%3E" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=32&duration=3000&pause=1000&color=00E1FF&background=3CBAFF00&center=true&vCenter=true&random=false&width=600&height=70&lines=def+initialize(world)%3A;return+Dheeraz.version(3.0);class+DataAlchemist(Human)%3A" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -60,45 +60,216 @@ I turn:
 - 🌪️ Chaotic business problems into structured, solvable equations
 
 <div align="center">
+<h2>🧪 DIGITAL ELEMENTS TABLE 🧪</h2>
+</div>
 
-### 🛠️ Arsenal of Digital Transmutation
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
 
-[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
-[![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/)
-[![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)](https://spark.apache.org/)
-[![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)](https://kafka.apache.org/)
-[![Apache Hadoop](https://img.shields.io/badge/Apache_Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=black)](https://hadoop.apache.org/)
-[![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/bigquery)
-[![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)](https://databricks.com/)
-[![SageMaker](https://img.shields.io/badge/SageMaker-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/sagemaker/)
+<div style="border-radius: 10px; padding: 15px; margin: 10px; background: linear-gradient(135deg, #232F3E 0%, #1A1A2E 100%);">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  <p><b>Py</b><br><small>36.5</small></p>
+</div>
 
-### Data Science & Analytics
-[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
-[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)](https://matplotlib.org/)
-[![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://seaborn.pydata.org/)
-[![A/B Testing](https://img.shields.io/badge/A/B_Testing-F7DF1E?style=for-the-badge&logo=jupyter&logoColor=black)](https://jupyter.org/)
-[![OOP](https://img.shields.io/badge/OOP-3C873A?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+<table align="center">
+  <tr>
+    <!-- AI & LLMs Orbital -->
+    <td>
+      <div style="text-align: center; padding: 10px; background: radial-gradient(circle, #412991 0%, #301934 100%); border-radius: 50%; width: 120px; height: 120px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="30" height="30"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="30" height="30"/>
+        <img src="https://huggingface.co/front/assets/huggingface_logo.svg" width="30" height="30"/>
+        <br>
+        <span style="color: white; font-size: 12px;">AI & LLMs</span>
+        <br>
+        <span style="font-size: 10px; color: #ccc;">RAG • LlamaIndex • LangChain</span>
+      </div>
+    </td>
+    
+    <!-- Cloud Services Orbital -->
+    <td>
+      <div style="text-align: center; padding: 10px; background: radial-gradient(circle, #0078D4 0%, #003B6D 100%); border-radius: 50%; width: 120px; height: 120px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="30" height="30"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="30" height="30"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="30" height="30"/>
+        <br>
+        <span style="color: white; font-size: 12px;">Cloud Computing</span>
+        <br>
+        <span style="font-size: 10px; color: #ccc;">SageMaker • Lambda • EC2</span>
+      </div>
+    </td>
+    
+    <!-- Big Data Orbital -->
+    <td>
+      <div style="text-align: center; padding: 10px; background: radial-gradient(circle, #E25A1C 0%, #8A2100 100%); border-radius: 50%; width: 120px; height: 120px;">
+        <img src="https://spark.apache.org/images/spark-logo-trademark.png" width="30" height="30"/>
+        <img src="https://hadoop.apache.org/images/hadoop-logo.jpg" width="30" height="30"/>
+        <img src="https://kafka.apache.org/images/apache-kafka.png" width="30" height="30"/>
+        <br>
+        <span style="color: white; font-size: 12px;">Big Data</span>
+        <br>
+        <span style="font-size: 10px; color: #ccc;">Spark • Hadoop • Kafka</span>
+      </div>
+    </td>
+  </tr>
+</table>
 
-### Machine Learning & Deep Learning
-[![Scikit-learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
-[![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)](https://keras.io/)
-[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
-[![XGBoost](https://img.shields.io/badge/XGBoost-006ACC?style=for-the-badge&logo=xgboost&logoColor=white)](https://xgboost.ai/)
-[![Deep Learning](https://img.shields.io/badge/Deep_Learning-5C3EE8?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/)
+<!-- Neural Network Skill Visualization -->
+<div style="margin-top: 20px; position: relative;">
+  <svg width="800" height="400" viewBox="0 0 800 400" xmlns="http://www.w3.org/2000/svg">
+    <!-- Background Pattern -->
+    <defs>
+      <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+        <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#1a1a1a" stroke-width="0.5"/>
+      </pattern>
+    </defs>
+    <rect width="100%" height="100%" fill="url(#grid)" />
+    
+    <!-- Skill Nodes and Connections -->
+    <!-- Each node represents a skill/tool, connections show relationships -->
+  </svg>
+  
+  <!-- Skill Constellation -->
+  <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+    <!-- The skills are positioned as stars in a constellation -->
+  </div>
+</div>
 
-### AI & LLMs
-[![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/)
-[![Hugging Face](https://img.shields.io/badge/Hugging_Face-FF9A00?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/)
-[![LangChain](https://img.shields.io/badge/LangChain-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://langchain.com/)
-[![LlamaIndex](https://img.shields.io/badge/LlamaIndex-0467DF?style=for-the-badge&logo=meta&logoColor=white)](https://www.llamaindex.ai/)
-[![RAG](https://img.shields.io/badge/RAG-FF4F8B?style=for-the-badge&logo=file&logoColor=white)](https://en.wikipedia.org/wiki/Retrieval-augmented_generation)
-[![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)](https://spacy.io/)
-[![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FF6F61?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/)
-[![Vector Search](https://img.shields.io/badge/Vector_Search-5C5C5C?style=for-the-badge&logo=elastic&logoColor=white)](https://www.elastic.co/)
-[![Generative AI](https://img.shields.io/badge/Generative_AI-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/)
-[![LLMs](https://img.shields.io/badge/LLMs-00B8D9?style=for-the-badge&logo=ai&logoColor=white)](https://openai.com/)
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin-top: 20px;">
+  <!-- AI & ML Tech -->
+  <div style="background: linear-gradient(135deg, #8A2BE2 0%, #4B0082 100%); border-radius: 10px; padding: 15px; width: 180px; text-align: center;">
+    <h3 style="margin: 0; color: white;">AI Alchemy</h3>
+    <div style="margin: 10px 0;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="30" height="30"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="30" height="30"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="30" height="30"/>
+    </div>
+    <div style="font-size: 10px; color: #ddd;">
+      TensorFlow • PyTorch • Keras<br>
+      LangChain • RAG • LlamaIndex<br>
+      GPT • Vector Search
+    </div>
+  </div>
+  
+  <!-- Data Handling -->
+  <div style="background: linear-gradient(135deg, #FF6F61 0%, #B22222 100%); border-radius: 10px; padding: 15px; width: 180px; text-align: center;">
+    <h3 style="margin: 0; color: white;">Data Forge</h3>
+    <div style="margin: 10px 0;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="30" height="30"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="30" height="30"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30" height="30"/>
+    </div>
+    <div style="font-size: 10px; color: #ddd;">
+      Pandas • NumPy • Matplotlib<br>
+      SQL • NoSQL • ETL<br>
+      Data Pipelines • Airflow
+    </div>
+  </div>
+  
+  <!-- Cloud Services -->
+  <div style="background: linear-gradient(135deg, #1E90FF 0%, #00008B 100%); border-radius: 10px; padding: 15px; width: 180px; text-align: center;">
+    <h3 style="margin: 0; color: white;">Cloud Nexus</h3>
+    <div style="margin: 10px 0;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="30" height="30"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="30" height="30"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="30" height="30"/>
+    </div>
+    <div style="font-size: 10px; color: #ddd;">
+      AWS • Azure • GCP<br>
+      SageMaker • Lambda • EC2<br>
+      S3 • Redshift • BigQuery
+    </div>
+  </div>
+  
+  <!-- Big Data Tech -->
+  <div style="background: linear-gradient(135deg, #FF9900 0%, #FF4500 100%); border-radius: 10px; padding: 15px; width: 180px; text-align: center;">
+    <h3 style="margin: 0; color: white;">Data Cosmos</h3>
+    <div style="margin: 10px 0;">
+      <img src="https://spark.apache.org/images/spark-logo-trademark.png" width="30" height="30"/>
+      <img src="https://hadoop.apache.org/images/hadoop-logo.jpg" width="30" height="30"/>
+      <img src="https://kafka.apache.org/images/apache-kafka.png" width="30" height="30"/>
+    </div>
+    <div style="font-size: 10px; color: #ddd;">
+      Spark • Hadoop • Kafka<br>
+      EMR • Databricks • Hive<br>
+      Data Lakes • Streaming
+    </div>
+  </div>
+</div>
+
+<!-- Circular Skill Orbit -->
+<div style="margin-top: 30px; position: relative; width: 100%; height: 300px;">
+  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); text-align: center; z-index: 10; background: rgba(0,0,0,0.7); border-radius: 50%; width: 100px; height: 100px; display: flex; align-items: center; justify-content: center;">
+    <div>
+      <strong style="color: #0CE82B; font-size: 16px;">DATA</strong><br>
+      <span style="color: white; font-size: 12px;">CORE</span>
+    </div>
+  </div>
+  
+  <!-- Inner Orbit: Data Science -->
+  <div class="orbit" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); border: 1px dashed rgba(255,255,255,0.2); border-radius: 50%; width: 150px; height: 150px;"></div>
+  
+  <!-- Middle Orbit: ML/AI -->
+  <div class="orbit" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); border: 1px dashed rgba(255,255,255,0.2); border-radius: 50%; width: 220px; height: 220px;"></div>
+  
+  <!-- Outer Orbit: Infrastructure -->
+  <div class="orbit" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); border: 1px dashed rgba(255,255,255,0.2); border-radius: 50%; width: 290px; height: 290px;"></div>
+  
+  <!-- Skills positioned in orbital paths -->
+  <!-- These would be positioned using sin/cos for circular placement -->
+</div>
+
+<!-- Tech Matrix Grid -->
+<div style="display: grid; grid-template-columns: repeat(5, 1fr); gap: 10px; margin-top: 30px;">
+  <!-- Programming Languages -->
+  <div style="grid-column: span 2; background: linear-gradient(135deg, #333333 0%, #111111 100%); border-radius: 10px; padding: 15px; text-align: center;">
+    <h4 style="margin: 0; color: #0CE82B;">SYNTAX</h4>
+    <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 5px; margin-top: 10px;">
+      <span style="background: #3776AB; color: white; padding: 5px 10px; border-radius: 15px; font-size: 12px;">Python</span>
+      <span style="background: #FF7800; color: white; padding: 5px 10px; border-radius: 15px; font-size: 12px;">SQL</span>
+      <span style="background: #00599C; color: white; padding: 5px 10px; border-radius: 15px; font-size: 12px;">C++</span>
+      <span style="background: #F7DF1E; color: black; padding: 5px 10px; border-radius: 15px; font-size: 12px;">JavaScript</span>
+      <span style="background: #B07219; color: white; padding: 5px 10px; border-radius: 15px; font-size: 12px;">Java</span>
+    </div>
+  </div>
+  
+  <!-- Big Data -->
+  <div style="grid-column: span 3; background: linear-gradient(135deg, #E25A1C 0%, #8A2100 100%); border-radius: 10px; padding: 15px; text-align: center;">
+    <h4 style="margin: 0; color: white;">DATA FLOW</h4>
+    <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 5px; margin-top: 10px;">
+      <span style="background: rgba(255,255,255,0.2); color: white; padding: 5px 10px; border-radius: 15px; font-size: 12px;">Spark</span>
+      <span style="background: rgba(255,255,255,0.2); color: white; padding: 5px 10px; border-radius: 15px; font-size: 12px;">Kafka</span>
+      <span style="background: rgba(255,255,255,0.2); color: white; padding: 5px 10px; border-radius: 15px; font-size: 12px;">Hadoop</span>
+      <span style="background: rgba(255,255,255,0.2); color: white; padding: 5px 10px; border-radius: 15px; font-size: 12px;">Airflow</span>
+      <span style="background: rgba(255,255,255,0.2); color: white; padding: 5px 10px; border-radius: 15px; font-size: 12px;">ETL</span>
+      <span style="background: rgba(255,255,255,0.2); color: white; padding: 5px 10px; border-radius: 15px; font-size: 12px;">Databricks</span>
+    </div>
+  </div>
+  
+  <!-- ML/AI -->
+  <div style="grid-column: span 3; background: linear-gradient(135deg, #8A2BE2 0%, #4B0082 100%); border-radius: 10px; padding: 15px; text-align: center;">
+    <h4 style="margin: 0; color: white;">NEURAL NETWORKS</h4>
+    <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 5px; margin-top: 10px;">
+      <span style="background: rgba(255,255,255,0.2); color: white; padding: 5px 10px; border-radius: 15px; font-size: 12px;">TensorFlow</span>
+      <span style="background: rgba(255,255,255,0.2); color: white; padding: 5px 10px; border-radius: 15px; font-size: 12px;">PyTorch</span>
+      <span style="background: rgba(255,255,255,0.2); color: white; padding: 5px 10px; border-radius: 15px; font-size: 12px;">scikit-learn</span>
+      <span style="background: rgba(255,255,255,0.2); color: white; padding: 5px 10px; border-radius: 15px; font-size: 12px;">LLMs</span>
+      <span style="background: rgba(255,255,255,0.2); color: white; padding: 5px 10px; border-radius: 15px; font-size: 12px;">RAG</span>
+      <span style="background: rgba(255,255,255,0.2); color: white; padding: 5px 10px; border-radius: 15px; font-size: 12px;">LangChain</span>
+    </div>
+  </div>
+  
+  <!-- Cloud -->
+  <div style="grid-column: span 2; background: linear-gradient(135deg, #1E90FF 0%, #00008B 100%); border-radius: 10px; padding: 15px; text-align: center;">
+    <h4 style="margin: 0; color: white;">CLOUD REALMS</h4>
+    <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 5px; margin-top: 10px;">
+      <span style="background: rgba(255,255,255,0.2); color: white; padding: 5px 10px; border-radius: 15px; font-size: 12px;">AWS</span>
+      <span style="background: rgba(255,255,255,0.2); color: white; padding: 5px 10px; border-radius: 15px; font-size: 12px;">Azure</span>
+      <span style="background: rgba(255,255,255,0.2); color: white; padding: 5px 10px; border-radius: 15px; font-size: 12px;">GCP</span>
+      <span style="background: rgba(255,255,255,0.2); color: white; padding: 5px 10px; border-radius: 15px; font-size: 12px;">SageMaker</span>
+      <span style="background: rgba(255,255,255,0.2); color: white; padding: 5px 10px; border-radius: 15px; font-size: 12px;">Lambda</span>
+    </div>
+  </div>
+</div>
 
 </div>
 
