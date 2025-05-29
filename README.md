@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="assets/earth gif.gif" width="850" height="350" alt="Shanmukha Sai Dheeraz Chavali - Data Scientist">
+  <img src="assets/earth gif.gif" font=JetBrains+Mono&weight=600&size=32&duration=3000&pause=1000&color=00E1FF&background=3CBAFF00&center=true&vCenter=true&random=false&width=700&height=100 alt="Shanmukha Sai Dheeraz Chavali - Data Scientist">
+
 </div>
 
 <div align="center" style="margin-top:15px">
