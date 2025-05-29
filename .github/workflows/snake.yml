@@ -1,0 +1,37 @@
+name: Generate Snake Animation
+
+on:
+  # Run automatically every day
+  schedule:
+    - cron: "0 0 * * *"
+  
+  # Allow manual trigger of the workflow
+  workflow_dispatch:
+  
+  # Run on push to main branch
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      # Checkout the repository
+      - uses: actions/checkout@v3
+      
+      # Generate the snake SVGs
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: dheeraz07
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-snake.svg?color_snake=00E1FF&color_dots=#0CE82B,#8A2BE2,#FF4F8B,#00B8D9
+      
+      # Push to output branch
+      - uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output
