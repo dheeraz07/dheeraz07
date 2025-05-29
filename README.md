@@ -403,22 +403,7 @@ When data tsunamis overwhelm others, I'm building arks of algorithms. Where comp
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dheeraz07&theme=dark&background=000000&ring=0CE82B&fire=0CE82B&currStreakLabel=0CE82B" alt="GitHub Streak" />
 </div>
 
-## 🚀 Chronicles of Digital Transformation
 
-### [Finnhub Trading Data Streaming Pipeline](https://github.com/dheeraz07/Finnhub-trading-Data-Streaming-Pipeline)
-Crafted a real-time neural system for financial markets that processes trading heartbeats through Kafka arteries and Spark neurons, transforming market noise into trading symphonies.
-
-### [Anomaly Detection for Transactions and Network Logs](https://github.com/dheeraz07/Anomaly-Detection-in-Transactions-and-Netflow-logs)
-Forged digital guardians that stand vigilant against the shadows of fraud and cyber threats, using advanced ML sentinels to distinguish normal patterns from malicious anomalies.
-
-### [Amazon Connect Real-time Transcription](https://github.com/dheeraz07/Amazon-Connect-Real-time-Transcription)
-Built digital ears that listen, understand, and translate human conversations into actionable text streams, giving voice to customer data through AWS's transcription alchemy.
-
-### [Spotify Data Pipeline Using AWS](https://github.com/dheeraz07/Spotify-Data-Pipeline-Using-AWS)
-Orchestrated a harmonious data symphony that captures the rhythm of music streaming, transforming scattered notes of user behavior into melodious insights.
-
-### [Uber Expense Tracking with Apache Airflow](https://github.com/dheeraz07/Tracking-Uber-expenses-using-Apache-Airflow)
-Conducted an automated financial concerto with Airflow as the maestro, directing the precise flow of expense data from raw receipts to visualization crescendos.
 
 ## ✨ The Code Whisperer's Stats
 
