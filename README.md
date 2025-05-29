@@ -385,6 +385,13 @@ This is not just what I do. This is who I am.
 
 When data tsunamis overwhelm others, I'm building arks of algorithms. Where complexity creates chaos, I weave order through elegant architecture. I don't just follow the digital revolution—I'm engineering its next evolution.
 
+<!-- Snake Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dheeraz07/dheeraz07/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dheeraz07/dheeraz07/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/dheeraz07/dheeraz07/output/github-snake.svg" />
+</picture>
+
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dheeraz07&theme=dark&background=000000&ring=0CE82B&fire=0CE82B&currStreakLabel=0CE82B" alt="GitHub Streak" />
 </div>
