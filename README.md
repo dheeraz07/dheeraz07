@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/dheeraz07/dheeraz07/main/assets/header-banner.svg" width="700" alt="Shanmukha Sai Dheeraz Chavali - Data Scientist">
+  <img src="assets/gif2.gif" width="700" alt="Shanmukha Sai Dheeraz Chavali - Data Scientist">
 </div>
 
 <div align="center" style="margin-top:15px">
