@@ -1,5 +1,9 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=32&duration=3000&pause=1000&color=00E1FF&background=3CBAFF00&center=true&vCenter=true&random=false&width=600&height=70&lines=def+initialize(world)%3A;return+Dheeraz.version(3.0);class+DataAlchemist(Human)%3A" alt="Typing SVG" />
+  <img src="https://raw.githubusercontent.com/dheeraz07/dheeraz07/main/assets/header-banner.svg" width="700" alt="Shanmukha Sai Dheeraz Chavali - Data Scientist">
+</div>
+
+<div align="center" style="margin-top:15px">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=22&duration=3000&pause=1000&color=39C4FF&center=true&vCenter=true&random=false&width=600&height=45&lines=Building+intelligent+data+systems;Transforming+insights+into+impact;Machine+learning+solutions+for+real-world+problems" alt="Typing SVG" />
 </div>
 
 <div align="center">
