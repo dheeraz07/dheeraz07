@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="assets/git.gif
-    " width="1000"  alt="Shanmukha Sai Dheeraz Chavali - Data Scientist">
+  <img src="assets/git.gif" width="1000"  alt="Shanmukha Sai Dheeraz Chavali - Data Scientist">
 </div>
 
 
