@@ -1,10 +1,7 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="1000" height = 500 alt="Shanmukha Sai Dheeraz Chavali - Data Scientist">
+  <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="1000"  alt="Shanmukha Sai Dheeraz Chavali - Data Scientist">
 </div>
 
-
-<img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="500">
-<br><br>
 
 <div align="center" style="margin-top:15px">
   <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=22&duration=3000&pause=1000&color=39C4FF&center=true&vCenter=true&random=false&width=600&height=45&lines=Building+intelligent+data+systems;Transforming+insights+into+impact;Machine+learning+solutions+for+real-world+problems" alt="Typing SVG" />
