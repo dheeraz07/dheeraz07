@@ -2,6 +2,10 @@
   <img src="https://raw.githubusercontent.com/dheeraz07/dheeraz07/main/assets/header-banner.svg" width="700" alt="Shanmukha Sai Dheeraz Chavali - Data Scientist">
 </div>
 
+
+<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="500">
+<br><br>
+
 <div align="center" style="margin-top:15px">
   <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=22&duration=3000&pause=1000&color=39C4FF&center=true&vCenter=true&random=false&width=600&height=45&lines=Building+intelligent+data+systems;Transforming+insights+into+impact;Machine+learning+solutions+for+real-world+problems" alt="Typing SVG" />
 </div>
