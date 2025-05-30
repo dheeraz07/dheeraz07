@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/header-animation.svg" width="800" height="300" alt="Shanmukha Sai Dheeraz Chavali - Data Scientist">
+  <img src="assets/header-animation-dynamic.svg" width="800" height="300" alt="Shanmukha Sai Dheeraz Chavali - Data Scientist">
 </div>
 
 <div align="center">
